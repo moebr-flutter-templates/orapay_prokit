@@ -1,16 +1,60 @@
-# orapay_prokit
+# OraPay ProKit – UI Demo
 
-A new Flutter project.
+A Flutter UI demo app for a modern payment or finance solution interface.  
+This is a **UI-only** project – no backend or actual payment integration.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Overview
 
-A few resources to get you started if this is your first Flutter project:
+The app includes design elements suited for:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Wallets and transactions
+- Payment history
+- Transfer screens
+- Financial dashboards
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🔍 Status
+
+**Demo only** – UI focus without functional implementation.
+
+---
+
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td><img src="ScreenShots/1.jpg" width="220"/></td>
+    <td><img src="ScreenShots/2.jpg" width="220"/></td>
+    <td><img src="ScreenShots/3.jpg" width="220"/></td>
+    <td><img src="ScreenShots/4.jpg" width="220"/></td>
+  </tr>
+  <tr>
+    <td><img src="ScreenShots/5.jpg" width="220"/></td>
+    <td><img src="ScreenShots/6.jpg" width="220"/></td>
+    <td><img src="ScreenShots/7.jpg" width="220"/></td>
+    <td><img src="ScreenShots/8.jpg" width="220"/></td>
+  </tr>
+  <tr>
+    <td><img src="ScreenShots/9.jpg" width="220"/></td>
+    <td><img src="ScreenShots/10.jpg" width="220"/></td>
+    <td><img src="ScreenShots/11.jpg" width="220"/></td>
+    <td><img src="ScreenShots/12.jpg" width="220"/></td>
+  </tr>
+</table>
+
+---
+
+## 📝 Notes
+
+- Built using Flutter
+- Fully responsive layouts
+- Ideal base for payment, finance, or banking apps
+
+---
+
+## ✍️ Created by
+
+**Mohamed Ebrahim**
